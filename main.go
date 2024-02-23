@@ -56,6 +56,6 @@ func main() {
 	}
 
 	// Assuming words.txt contains: anna racecar normal
-	fmt.Println("Palindromes: ", palindromes) // Palindromes:  [anna racecar]
+	fmt.Println("Palindromes: ", palindromes)  // Palindromes:  [anna racecar]
 	fmt.Println("Normal Words: ", normalWords) // Normal Words:  [normal]
 }
